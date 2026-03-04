@@ -23,7 +23,6 @@ The final model is a **RoBERTa-base binary classifier** trained to predict wheth
 
 Each input is formatted as: keyword </s> paragraph
 
-
 where:
 
 - **keyword** – contextual keyword provided in the dataset  
@@ -78,7 +77,7 @@ The trained model file (`model.safetensors`) exceeds GitHub size limits.
 It can be downloaded here:
 
 **Google Drive:**  
-*(Insert link here)*
+https://drive.google.com/drive/folders/1JAe0pxz97rFPXLXx5L5ZScM1dvAavR6w?usp=sharing
 
 ---
 
