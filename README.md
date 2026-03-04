@@ -21,12 +21,12 @@ The final model is a **RoBERTa-base binary classifier** trained to predict wheth
 
 ### Input Representation
 
-Each input is formatted as: keyword </s> paragraph
+Each input is formatted as: keyword "<s>" paragraph
 
 where:
 
 - **keyword** – contextual keyword provided in the dataset  
-- **</s>** – RoBERTa separator token  
+- **"<s>"** – RoBERTa separator token  
 
 Including the keyword provides additional context about the vulnerable group referenced in the text.
 
